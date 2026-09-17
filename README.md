@@ -9,8 +9,8 @@ Bij deze repository horen:
 
 ## Leerlinggegevens
 
-Naam:  
-Klas:
+Naam: Jort Zwinkels 
+Klas: NH4E
 
 ## Aan de slag
 
